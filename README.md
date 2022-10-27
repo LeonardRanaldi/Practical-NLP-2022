@@ -6,3 +6,5 @@ To view the tutorials, you can download the pythonbook or access them via Google
 
 
 - **Lesson 1** - Introduction to google colaboratory, An example of unsupervised sentimnet analysis of financial news. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeonardRanaldi/Practical-NLP-2022/blob/main/Practical_NLP_lesson1_2023.ipynb)
+
+- **Lesson 2** - Text classification using Part-of-speech tagging. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeonardRanaldi/Practical-NLP-2022/blob/main/Practical_NLP_lesson2_2023.ipynb)
