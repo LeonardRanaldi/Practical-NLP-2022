@@ -12,4 +12,4 @@ To view the tutorials, you can download the pythonbook or access them via Google
 
 - **Lesson 3** - Text classification2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeonardRanaldi/Practical-NLP-2022/blob/main/Practical_NLP_lesson3_2023.ipynb)
 
-- **Lesson 3** - Inter annotator agreement [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeonardRanaldi/Practical-NLP-2022/blob/main/Practical_NLP_lesson4_2023.ipynb)
+- **Lesson 4** - Inter annotator agreement [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeonardRanaldi/Practical-NLP-2022/blob/main/Practical_NLP_lesson4_2023.ipynb)
