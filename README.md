@@ -18,4 +18,4 @@ To view the tutorials, you can download the pythonbook or access them via Google
 
 - **Lesson 6** - Bayesian Classification for Machine Learning for Computational Linguistics [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeonardRanaldi/Practical-NLP-2022/blob/main/Practical_NLP_lesson6_2023.ipynb)
 
-
+- **Lesson 7** - Named-entity recognition, POS Tagging and text classification tasks [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeonardRanaldi/Practical-NLP-2022/blob/main/Practical_NLP_lesson7_2023.ipynb)
