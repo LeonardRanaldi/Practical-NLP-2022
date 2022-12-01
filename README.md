@@ -16,4 +16,6 @@ To view the tutorials, you can download the pythonbook or access them via Google
 
 - **Lesson 5** - Natural Language Toolkit & WordNet [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeonardRanaldi/Practical-NLP-2022/blob/main/Practical_NLP_lesson5_2023.ipynb)
 
+- **Lesson 6** - Bayesian Classification for Machine Learning for Computational Linguistics [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeonardRanaldi/Practical-NLP-2022/blob/main/Practical_NLP_lesson6_2023.ipynb)
+
 
