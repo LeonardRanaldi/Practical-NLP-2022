@@ -24,3 +24,4 @@ To view the tutorials, you can download the pythonbook or access them via Google
 
 - **Lesson 9** - Transformers, Attention and Self-Attention [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeonardRanaldi/Practical-NLP-2022/blob/main/Practical_NLP_lesson9_2023.ipynb)
 
+- **Lesson 10** - KERMIT [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LeonardRanaldi/Practical-NLP-2022/blob/main/Practical_NLP_lesson10_2023.ipynb)
